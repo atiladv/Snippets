@@ -1,2 +1,2 @@
 # hello_world
-getting started ideas
+Repository for exploring ideias and useful codes
